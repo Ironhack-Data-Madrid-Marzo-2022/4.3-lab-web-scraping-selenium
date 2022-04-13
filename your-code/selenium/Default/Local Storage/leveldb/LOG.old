@@ -1,0 +1,18 @@
+2022/04/13-22:08:02.312 10d0 Reusing MANIFEST c:\Users\jgcha\Desktop\IronHack\Semana 4\4.3-lab-web-scraping-selenium\your-code\selenium\Default\Local Storage\leveldb/MANIFEST-000001
+2022/04/13-22:08:02.314 10d0 Recovering log #14
+2022/04/13-22:08:02.314 10d0 Reusing old log c:\Users\jgcha\Desktop\IronHack\Semana 4\4.3-lab-web-scraping-selenium\your-code\selenium\Default\Local Storage\leveldb/000014.log 
+2022/04/13-22:42:00.717 3250 Level-0 table #17: started
+2022/04/13-22:42:00.720 3250 Level-0 table #17: 35950 bytes OK
+2022/04/13-22:42:00.724 3250 Delete type=0 #14
+2022/04/13-22:42:29.929 3250 Level-0 table #19: started
+2022/04/13-22:42:29.933 3250 Level-0 table #19: 58344 bytes OK
+2022/04/13-22:42:29.935 3250 Delete type=0 #16
+2022/04/13-22:42:29.936 3250 Compacting 4@0 + 1@1 files
+2022/04/13-22:42:29.945 3250 Generated table #20@0: 80 keys, 440943 bytes
+2022/04/13-22:42:29.945 3250 Compacted 4@0 + 1@1 files => 440943 bytes
+2022/04/13-22:42:29.946 3250 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/13-22:42:29.947 3250 Delete type=2 #8
+2022/04/13-22:42:29.947 3250 Delete type=2 #10
+2022/04/13-22:42:29.947 3250 Delete type=2 #13
+2022/04/13-22:42:29.947 3250 Delete type=2 #17
+2022/04/13-22:42:29.947 3250 Delete type=2 #19

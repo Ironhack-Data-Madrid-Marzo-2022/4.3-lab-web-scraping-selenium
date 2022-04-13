@@ -1,0 +1,1102 @@
+#h1_ctable{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+div.page_content_internal * {
+    font-family: 'Arial';
+}
+
+/* hide seal image */
+
+img[alt^="Seal"] {
+    display: none;
+}
+
+div.page_content_internal > center > font {
+    display: none;
+}
+
+table {
+    width: 90%;
+}
+
+table[border^="0"] > tbody > tr > td {
+    width: 100%;
+}
+
+table[border^="0"] > tbody > tr > td:first-child {
+    display: none;
+}
+
+h1 {
+    color: #32434F !important;
+    font-size: 16px;
+}
+
+h2 {
+    color: rgb(111, 11, 11);
+    font-size: 15px;
+}
+
+h3 {
+    color: rgb(111, 11, 11);
+    font-size: 14px;
+}
+
+h4 {
+    color: rgb(111, 11, 11) !important;
+    font-size: 12px;
+}
+
+h4 > font {
+    color: rgb(111, 11, 11) !important;
+}
+
+
+font[color^="#ff0000"] {
+    color: rgb(111, 11, 11) !important;
+}
+
+pre, pre * {
+    font-family: monospace !important;
+    font-size: 13px;
+}
+
+/*****************************************************************
+                Other Tables
+******************************************************************/
+
+div.page_content_internal h1 {
+    color: #32434F;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+div.page_content_internal h2 {
+    font-size: 14px;
+}
+
+div.page_content_internal * {
+    font-size: 13px;
+}
+
+div.uscsupplementrytable {
+    top: 9.6em;
+    left: 9em;
+}
+
+div.usctable1analysisrow {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+div.usctable1analysis {
+    margin-top: 40px;
+    margin-bottom: 60px;
+    border-width: medium;
+    border-style: solid;
+    padding-bottom: 15px;
+    width: 95%;
+    left-margin: 10px;
+    font-size: 13px;
+}
+
+span.usctable1analysisrowcol1data {
+    left: 30px;
+}
+
+span.usctable1analysisrowcol2data {
+    left: 170px;
+}
+
+div.linkedheadings h1 {
+    margin-bottom: 3px;
+}
+
+div.linkedheadings h2 {
+    margin-bottom: 3px;
+}
+
+div.linkedheadings h2.usc {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+div.linkedheadings h4 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    font-variant: small-caps;
+    text-indent: -2em;
+    padding-left: 2em;
+    margin-left: 0em;
+}
+
+p {
+    padding: 0em;
+    margin: 0em;
+    text-indent: 1em;
+}
+
+p span.monospaced {
+    font-family: monospace;
+}
+
+cap-smallcap {
+    font-variant: small-caps;
+}
+
+caption {
+    margin: .25em;
+    text-align: center;
+    font-size: 1.05em
+}
+
+div.uscsupplementrytable a {
+    color: black;
+    text-decoration: none;
+}
+
+div.uscsupplementrytable a:hover {
+    color: yellow;
+}
+
+div.linkedheadings {
+    top: 1em;
+    left: 0;
+    /*height: 15.8em;*/
+    width: 40em;
+    overflow: hidden;
+    margin-left: 0;
+    padding: 0;
+}
+
+
+
+
+div.uscsupplementrytable table {
+    border-style: solid;
+    border-color: black;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right: none;
+    border-left: none;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    width: 650px;
+}
+
+div.uscsupplementrytable table caption {
+    background-color: #A8A8A8;
+    height: 60px;
+    vertical-align: middle;
+    border: inset;
+    border-color: lightblue;
+}
+
+div.uscsupplementrytable table caption span {
+    color: lightblue;
+    font-size: .9em;
+    font-weight: bolder;
+}
+
+div.uscsupplementrytable table th {
+    background-color: #C9AD6D;
+    margin: 0px;
+    font-weight: bold;
+    border-top: 5px;
+    border-bottom: 1px solid;
+    border-right: none;
+    border-left: none;
+}
+
+div.uscsupplementrytable table tr {
+    background-color: #E1D2AE;
+}
+
+div.uscsupplementrytable table td {
+    padding-right: .5em;
+    padding-left: 1.25em;
+    text-indent: -1em;
+    vertical-align: top;
+}
+
+div.uscsupplementrytable table td p {
+    text-indent: -1em;
+    text-align: left;
+    color: red;
+}
+
+p.smallitalnote {
+    font-size: .8em;
+    font-style: italic;
+    color: red;
+    margin-left: 0px;
+}
+
+#t1formersection {
+    margin-left: 10px;
+}
+
+/*****************************************************************
+                Table III
+******************************************************************/
+
+.lrclogo {
+    display: none;
+}
+
+.lrcmenu  {
+    display: none;
+}
+
+div.page_content a:hover{
+    color:#B28F47;
+}
+
+div.inputarea {
+    left: 893px;
+    position: absolute;
+    text-align: center;
+    top: 24em;
+    width: 9em;
+}
+
+div.alltable3years{
+    top: 1em;
+    left: 5em;
+    background-color: #E1D2AE;
+    width: 45em;
+    height: 30em;
+    position: relative;
+    padding-top: 2em;
+}
+
+a.t3topyearsview{
+  color: #6F0B0B;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a.t3topcongressesview{
+  color: #6F0B0B;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a.t3topstatutesatlargevolumeview{
+  color: #6F0B0B;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a.t3topyearsview:hover{
+    color:#B28F47;
+}
+
+a.t3topcongressesview:hover{
+    color:#B28F47;
+}
+
+a.t3topstatutesatlargevolumeview:hover{
+    color:#B28F47;
+}
+
+a.t3topyearsinactiveview{
+    color: #6F0B0B;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.t3topyearsinactiveview:hover{
+    color:#B28F47;
+}
+
+a.t3topstatutesatlargeinactiveview{
+  color: #6F0B0B;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a.t3topstatutesatlargeinactiveview:hover{
+  color: #B28F47;
+}
+
+a.t3topcongressesinactiveview {
+    color: #6F0B0B;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.t3topcongressesinactiveview:hover{
+    color: #B28F47;
+}
+
+div.headings{
+    top: 1em;
+    height: 7em;
+    width: auto;
+    overflow: hidden;
+}
+
+div.verbose-content{
+    top: 1em;
+    left: 4em;
+    margin-left: 5em;
+    padding: 10px;
+}
+
+div.alltable3congresses{
+    background-color: #E1D2AE;
+    height: 30em;
+    left: 5em;
+    padding-top: 2em;
+    position: relative;
+    top: 1em;
+    width: 45em;
+}
+
+div.alltable3statutesatlargevolumes{
+    background-color: #E1D2AE;
+    height: 30em;
+    left: 5em;
+    padding-top: 2em;
+    position: relative;
+    top: 1em;
+    width: 45em;
+}
+
+div.yearsmasterhead{
+    position: relative;
+    left: 5em;
+    width: 45em;
+    height: 60px;
+    background-color: #E1D2AE;
+    margin-bottom: 1em;
+}
+
+div.congressesmasterhead{
+    position: relative;
+    left: 5em;
+    width: 45em;
+    height: 60px;
+    background-color: #E1D2AE;
+    margin-bottom: 1em;
+}
+
+div.statutesatlargevolumesmasterhead{
+    position: relative;
+    left: 5em;
+    width: 45em;
+    height: 60px;
+    background-color: #E1D2AE;
+    margin-bottom: 1em;
+}
+
+div.yearmasterhead{
+    position: relative;
+    left: 5em;
+    width: 45em;
+    height: 60px;
+    background-color: #E1D2AE;
+    margin-bottom: 1em;
+}
+
+div.yearmaster{
+    background-color: #E1D2AE;
+    height: auto;
+    left: 5em;
+    padding-top: 2em;
+    position: relative;
+    top: 1em;
+    width: 45em;
+    padding-bottom: 40px;
+}
+
+div.congressmasterhead{
+    position: relative;
+    left: 5em;
+    width: 45em;
+    height: 60px;
+    background-color: #E1D2AE;
+    margin-bottom: 1em;
+}
+
+div.congressmaster{
+    background-color: #E1D2AE;
+    height: auto;
+    left: 5em;
+    padding-top: 2em;
+    position: relative;
+    top: 1em;
+    width: 45em;
+    padding-bottom: 40px;
+}
+
+div.statutesatlargevolumemasterhead{
+    position: relative;
+    left: 5em;
+    width: 45em;
+    height: 60px;
+    background-color: #E1D2AE;
+    margin-bottom: 1em;
+}
+
+div.statutesatlargevolumemaster{
+    background-color: #E1D2AE;
+    height: auto;
+    left: 5em;
+    padding-top: 2em;
+    position: relative;
+    top: 1em;
+    width: 45em;
+    padding-bottom: 40px;
+}
+
+span.allcongresses{
+    float:left;
+    width:30%;
+    padding-left:10px;
+    padding-top:5px;
+    text-align: left;
+}
+
+span.allstatutesatlargevolumes{
+    text-align: center;
+    width: 36%;
+    float:left;
+    padding-top:5px;
+}
+
+span.allyears{
+    float:right;
+    width:30%;
+    text-align: right;
+    padding-right: 10px;
+    padding-top:5px;
+}
+
+span.prioryear{
+    float:left;
+    width:30%;
+    padding-left:10px;
+    padding-top:18px;
+    text-align: left;
+}
+
+span.thisyear{
+    color:black;
+    font-size: 1.5em;
+    text-align: center;
+    width: 36%;
+    float:left;
+    padding-top:13px;
+}
+
+span.nextyear{
+    float:right;
+    width:30%;
+    text-align: right;
+    padding-right: 10px;
+    padding-top:18px;
+}
+
+span.congressactiveview{
+    color: #B28F47;
+    font-size: 1.1em;
+    font-weight: bold;
+    float:left;
+    width:30%;
+    padding-left:10px;
+    padding-top:39px;
+    text-align: left;
+}
+
+span.statutesatlargeactiveview{
+    color: #B28F47;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: center;
+    width: 36%;
+    float:left;
+    padding-top:39px;
+}
+
+span.yearsactiveview{
+    float:right;
+    width:30%;
+    text-align: right;
+    color: #B28F47;
+    font-size: 1.1em;
+    font-weight: bold;
+    padding-right: 10px;
+    padding-top:39px;
+}
+
+span.statutesatlargeinactiveview{
+    text-align: center;
+    width: 36%;
+    float:left;
+    padding-top:39px;
+}
+
+span.congressinactiveview{
+    float:left;
+    width:30%;
+    padding-left:10px;
+    padding-top:39px;
+    text-align: left;
+}
+
+span.yearsinactiveview{
+    float:right;
+    width:30%;
+    text-align: right;
+    padding-right: 10px;
+    padding-top:39px;
+}
+
+span.priorcongress{
+   float:left;
+    width:30%;
+    padding-left:10px;
+    padding-top:18px;
+    text-align: left;
+	}
+span.thiscongress{
+    color:black;
+    font-size: 1.5em;
+    text-align: center;
+    width: 36%;
+    float:left;
+    padding-top:13px;
+	}
+span.nextcongress{
+    float:right;
+    width:30%;
+    text-align: right;
+    padding-right: 10px;
+    padding-top:18px;
+}
+
+
+span.priorstatutesatlargevolume{
+   float:left;
+    width:30%;
+    padding-left:10px;
+    padding-top:18px;
+    text-align: left;
+
+}
+span.thisstatutesatlargevolume{
+    color:black;
+    font-size: 1.5em;
+    text-align: center;
+    width: 36%;
+    float:left;
+    padding-top:13px;
+}
+span.nextstatutesatlargevolume{
+    float:right;
+    width:30%;
+    text-align: right;
+    padding-right: 10px;
+    padding-top:18px;
+}
+
+
+a.pubr{
+ font-size: .6em;
+}
+
+span.yearmasterfilelink1{
+    position:absolute;
+    left: 25px;
+}
+
+span.yearmasterfilelink2{
+    position:absolute;
+    left: 95px;
+}
+
+span.yearmasterfilelink3{
+    position:absolute;
+    left: 165px;
+}
+
+span.yearmasterfilelink4{
+    position:absolute;
+    left: 235px;
+}
+
+span.yearmasterfilelink5{
+    position:absolute;
+    left: 305px;
+}
+
+span.yearmasterfilelink6{
+    position:absolute;
+    left: 375px;
+}
+
+span.yearmasterfilelink7{
+    position:absolute;
+    left: 445px;
+}
+
+span.yearmasterfilelink8{
+    position:absolute;
+    left: 515px;
+}
+
+span.congressmasterfilelink1{
+    position:absolute;
+    left: 25px;
+}
+
+span.congressmasterfilelink2{
+    position:absolute;
+    left: 95px;
+}
+
+span.congressmasterfilelink3{
+    position:absolute;
+    left: 165px;
+}
+
+span.congressmasterfilelink4{
+    position:absolute;
+    left: 235px;
+}
+
+span.congressmasterfilelink5{
+    position:absolute;
+    left: 305px;
+}
+
+span.congressmasterfilelink6{
+    position:absolute;
+    left: 375px;
+}
+
+span.congressmasterfilelink7{
+    position:absolute;
+    left: 445px;
+}
+
+span.congressmasterfilelink8{
+    position:absolute;
+    left: 515px;
+}
+
+span.statutesatlargevolumemasterfilelink1{
+    position:absolute;
+    left: 25px;
+}
+
+span.statutesatlargevolumemasterfilelink2{
+    position:absolute;
+    left: 95px;
+}
+
+span.statutesatlargevolumemasterfilelink3{
+    position:absolute;
+    left: 165px;
+}
+span.statutesatlargevolumemasterfilelink4{
+    position:absolute;
+    left: 235px;
+}
+span.statutesatlargevolumemasterfilelink5{
+    position:absolute;
+    left: 305px;
+}
+span.statutesatlargevolumemasterfilelink6{
+    position:absolute;
+    left: 375px;
+}
+span.statutesatlargevolumemasterfilelink7{
+    position:absolute;
+    left: 445px;
+}
+span.statutesatlargevolumemasterfilelink8{
+    position:absolute;
+    left: 515px;
+}
+
+span.yearslink1{
+    padding-left: 4em;
+}
+span.yearslink2{
+    padding-left: 1.45em;
+}
+span.yearslink3{
+    padding-left: 1.45em;
+}
+span.yearslink4{
+    padding-left: 1.45em;
+}
+span.yearslink5{
+    padding-left: 1.45em;
+}
+span.yearslink6{
+    padding-left: 1.45em;
+}
+span.yearslink7{
+    padding-left: 1.45em;
+}
+span.yearslink8{
+    padding-left: 1.45em;
+}
+span.yearslink9{
+    padding-left: 1.45em;
+}
+span.yearslink10{
+    padding-left: 1.45em;
+}
+
+span.congresseslink1{
+    position:absolute;
+    left: 30px;
+}
+span.congresseslink2{
+    position:absolute;
+    left: 85px;
+}
+span.congresseslink3{
+    position:absolute;
+    left: 140px;
+}
+span.congresseslink4{
+    position:absolute;
+    left: 195px;
+}
+span.congresseslink5{
+    left: 250px;
+    position:absolute;
+}
+span.congresseslink6{
+    left: 305px;
+    position:absolute;
+}
+span.congresseslink7{
+    left: 360px;
+    position:absolute;
+}
+span.congresseslink8{
+    left: 415px;
+    position:absolute;
+}
+span.congresseslink9{
+    left: 470px;
+    position:absolute;
+}
+span.congresseslink10{
+    left: 530px;
+    position:absolute;
+}
+
+span.statutesatlargevolumeslink1{
+    position:absolute;
+    left: 30px;
+}
+span.statutesatlargevolumeslink2{
+    position:absolute;
+    left: 85px;
+}
+span.statutesatlargevolumeslink3{
+    position:absolute;
+    left: 140px;
+}
+span.statutesatlargevolumeslink4{
+    position:absolute;
+    left: 195px;
+}
+span.statutesatlargevolumeslink5{
+    position:absolute;
+    left: 250px;
+}
+span.statutesatlargevolumeslink6{
+    position:absolute;
+    left: 305px;
+}
+span.statutesatlargevolumeslink7{
+    position:absolute;
+    left: 360px;
+}
+span.statutesatlargevolumeslink8{
+    position:absolute;
+    left: 415px;
+}
+span.statutesatlargevolumeslink9{
+    position:absolute;
+    left: 470px;
+}
+span.statutesatlargevolumeslink10{
+    position:absolute;
+    left: 530px;
+}
+
+caption.documentcontext{
+    background-color: #E1D2AE;
+    height: 60px;
+    margin-bottom: 1.5em;
+    position: relative;
+}
+
+table.table3act{
+    position:relative;
+    left: 5em;
+    width:45em;
+}
+
+table.table3act caption span{
+    color:#6F0B0B;
+    font-size: .9em;
+    font-weight: bolder;
+}
+
+table.table3act caption span.congress{
+    float:left;
+    width:30%;
+    padding-left:10px;
+    padding-top:5px;
+    text-align: left;
+
+}
+
+table.table3act caption span.statutesatlargevolume{
+    text-align: center;
+    width: 36%;
+    float:left;
+    padding-top:5px;
+
+}
+
+table.table3act caption span.textdate{
+    float:right;
+    width:30%;
+    text-align: right;
+    padding-right: 10px;
+    padding-top:5px;
+
+}
+
+table.table3act caption span.act{
+    color: black;
+    font-size: 1.5em;
+    text-align: center;
+    width: 36%;
+    float:left;
+    padding-top:13px;
+
+}
+
+table.table3act caption span.prioract{
+    float:left;
+    width:30%;
+    padding-left:10px;
+    padding-top:18px;
+    text-align: left;
+}
+
+table.table3act caption span.nextact{
+    float:right;
+    width:30%;
+    text-align: right;
+    padding-right: 10px;
+    padding-top:18px;
+
+}
+
+table.table3act th{
+    background-color: #E1D2AE;
+    color: black;
+    margin: 0px;
+    font-weight: bold;
+    border: none;
+    padding: 3px;
+}
+
+table.table3act tr.table3row_even{
+    background-color: #E1D2AE;
+}
+
+table.table3act tr.table3row_odd{
+    background-color: #C9AD6D;
+}
+
+table.table3act td{
+    padding-left: 0.5em;
+    vertical-align: top;
+}
+
+table.table3act td.actsection{
+    width: 18%;
+}
+
+table.table3act td.statutesatlargepage{
+    width: 15%;
+}
+
+table.table3act td.unitedstatescodetitle{
+    width: 12%;
+    text-align: center;
+}
+
+table.table3act td.unitedstatescodestatus{
+    width: 15%;
+}
+
+table.table3act td p{
+    text-align:left;
+    color: red;
+}
+
+div.verbose-content li.plain{
+    list-style-type: none;
+}
+
+div.headmenu, div.footmenu {
+    display:none;
+}
+
+/*****************************************************************
+                Currency and Updating.
+******************************************************************/
+p.classificationtablecurrency {
+    border-bottom: medium double;
+    border-top: medium double;
+    margin: 0;
+    width: 630px;
+}
+
+table.searchableusc, table.downloadableusc, table.priors {
+    border-bottom: medium double;
+    border-top: medium double;
+    width: 630px;
+}
+
+table.searchableusc th, table.downloadableusc th, table.priors th  {
+    border-bottom: thin solid;
+    font-size: 0.8em;
+    font-variant: small-caps;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: left;
+}
+
+table.searchableusc td, table.downloadableusc td, table.priors td {
+    font-size: 0.8em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+p.pagecontentsearchablenote, p.pagecontentdownloadablenote {
+    font-size: 0.8em;
+    margin: 0;
+    padding-left: 1em;
+    width: 600px;
+}
+
+.pagetopichead h1 {
+    color: #32434F;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+p.pagetopictext {
+    font-style: italic;
+    font-weight: bold;
+    margin: 0;
+}
+
+p.currencyexpltext2, p.updatingexpltext1, p.updatingexpltext2, p.updatingexpltext3, p.updatingexpltext4, p.updatingexpltext5 {
+    margin-top: 10px;
+}
+
+.pagecontentclassificationtabledates h2, .pagecontentsearchable h2,
+.pagecontentdownloadable h2,
+.pagecontentpriors h2, .currencyexpl h2,
+.updatingexpl h2 {
+    color: black;
+}
+
+/*****************************************************************
+                     HTML Trees
+******************************************************************/
+ol.olrcDirectoryTree{
+ padding: 0 0 0 30px;
+ width: 300px;
+}
+
+li{ 
+ position: relative; 
+ margin-left: -15px;
+ list-style: none;
+}
+
+li.file{
+ margin-left: -1px !important;
+}
+
+li.file a{
+ background: url(/images/site/document.png) 0 0 no-repeat !important;
+ padding-left: 21px;
+ padding-bottom: 1px;
+ text-decoration: none;
+ display: block;
+}
+
+li input{
+ position: absolute;
+ left: 0;
+ margin-left: 0;
+ opacity: 0;
+ z-index: 2;
+ cursor: pointer;
+ height: 1em;
+ width: 1em;
+ top: 0;
+}
+
+li input + ol{
+ background: url(/images/site/toggle-small-expand2.png) 40px 0 no-repeat;
+ margin: -0.938em 0 0 -44px; /* 15px */
+ height: 1em;
+ }
+
+li input + ol > li { 
+ display: none; 
+ margin-left: -14px !important; 
+ padding-left: 1px; 
+}
+
+li label{
+ background: url(/images/site/folder-horizontal.png) 15px 1px no-repeat !important;
+ cursor: pointer;
+ display: block;
+ padding-left: 37px;
+}
+
+li input:checked + ol{
+ background: url(/images/site/toggle-small2.png) 40px 5px no-repeat !important;
+ margin: -1.25em 0 0 -44px; /* 20px */
+ padding: 1.563em 0 0 80px;
+ height: auto;
+}
+
+li input:checked + ol > li{ 
+ display: block; 
+ margin: 0 0 0.130em;  /* 2px */
+}
+
+li input:checked + ol > li:last-child {
+ margin: 0 0 0.063em; /* 1px */ 
+}
