@@ -1,0 +1,7 @@
+[23600:21440:0413/225335.510:INFO:CONSOLE(0)] "ResizeObserver loop limit exceeded", source: https://twitter.com/albertomoreeno4 (0)
+[23600:21440:0413/225335.558:INFO:CONSOLE(0)] "ResizeObserver loop limit exceeded", source: https://twitter.com/albertomoreeno4 (0)
+[23600:21440:0413/225335.699:INFO:CONSOLE(0)] "ResizeObserver loop limit exceeded", source: https://twitter.com/albertomoreeno4 (0)
+[23600:21440:0413/225346.044:ERROR:device_event_log_impl.cc(214)] [22:53:46.044] USB: usb_service_win.cc:391 Could not read device interface GUIDs: El sistema no puede encontrar el archivo especificado. (0x2)
+[23600:21440:0413/225346.048:ERROR:device_event_log_impl.cc(214)] [22:53:46.048] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[23600:21440:0413/225346.051:ERROR:device_event_log_impl.cc(214)] [22:53:46.051] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[23600:21440:0413/225455.125:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
